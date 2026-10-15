@@ -2,7 +2,6 @@
 
 <a href="https://github.com/caracurse">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:09090f,50:2b1055,100:6d28d9&text=caracurse&fontColor=ffffff&fontSize=80&fontAlignY=40&desc=Code.%20Create.%20Evolve.&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="caracurse — Code. Create. Evolve." />
-```
 </a>
 
 <a href="https://git.io/typing-svg">
